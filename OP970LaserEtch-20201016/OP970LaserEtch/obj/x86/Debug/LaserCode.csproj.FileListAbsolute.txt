@@ -1,0 +1,166 @@
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Form1.resources
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Login.resources
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyCircleStatus.resources
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyDataGridView.resources
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyLabe.resources
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyMessageBox.resources
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Properties.Resources.resources
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.GenerateResource.Cache
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\LaserCode.csprojResolveAssemblyReference.cache
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\Interop.ClassPriorStep.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.ResolveComReference.cache
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe.config
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\SQLite.Interop.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\OP970LaserEtch.pdb
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\HPSocketCS.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\HslCommunication.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\Newtonsoft.Json.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\SqlSugar.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\System.Data.SQLite.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\ZFforVWalias.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\MySql.Data.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\Oracle.ManagedDataAccess.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\HslCommunication.pdb
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\HslCommunication.xml
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\Newtonsoft.Json.xml
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.exe
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.pdb
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\MetroFramework.Design.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\MetroFramework.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\MetroFramework.Fonts.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\HPSocket4C_U.dll
+d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\bin\Debug\DB\LaserCode.db
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe.config
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.ResolveComReference.cache
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.exe
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.pdb
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Login.resources
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyCircleStatus.resources
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyDataGridView.resources
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyLabe.resources
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyMessageBox.resources
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Properties.Resources.resources
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\bin\Debug\DB\LaserCode.db
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\bin\Debug\HPSocket4C_U.dll
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\bin\Debug\SQLite.Interop.dll
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\bin\Debug\OP970LaserEtch.pdb
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\bin\Debug\HPSocketCS.dll
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\bin\Debug\System.Data.SQLite.dll
+E:\上位程序 C#版\OP970LaserEtch\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Form1.resources
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe.config
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.ResolveComReference.cache
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.exe
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.pdb
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\DB\LaserCode.db
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\HPSocket4C_U.dll
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\SQLite.Interop.dll
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\OP970LaserEtch.pdb
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\HPSocketCS.dll
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\System.Data.SQLite.dll
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Form1.resources
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Login.resources
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyCircleStatus.resources
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyDataGridView.resources
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyLabe.resources
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyMessageBox.resources
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Properties.Resources.resources
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\上位程序 C#版\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe.config
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\Interop.ClassPriorStep.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.ResolveComReference.cache
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.exe
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.pdb
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\DB\LaserCode.db
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\HPSocket4C_U.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\SQLite.Interop.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\OP970LaserEtch.pdb
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\HPSocketCS.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\HslCommunication.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\Newtonsoft.Json.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\bin\Debug\System.Data.SQLite.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\LaserCode.csprojResolveAssemblyReference.cache
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Form1.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Login.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyCircleStatus.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyDataGridView.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyLabe.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyMessageBox.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Properties.Resources.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201010\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.GenerateResource.Cache
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe.config
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.ResolveComReference.cache
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.exe
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.pdb
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\DB\LaserCode.db
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\HPSocket4C_U.dll
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\SQLite.Interop.dll
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\OP970LaserEtch.pdb
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\HPSocketCS.dll
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\HslCommunication.dll
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\Newtonsoft.Json.dll
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\System.Data.SQLite.dll
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Form1.resources
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Login.resources
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyCircleStatus.resources
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyDataGridView.resources
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyLabe.resources
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyMessageBox.resources
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Properties.Resources.resources
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\上位程序 C#版\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe.config
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\Interop.ClassPriorStep.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.ResolveComReference.cache
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.exe
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.pdb
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\DB\LaserCode.db
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\HPSocket4C_U.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\SQLite.Interop.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\OP970LaserEtch.pdb
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\HPSocketCS.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\HslCommunication.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\Newtonsoft.Json.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\bin\Debug\System.Data.SQLite.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Form1.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Login.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyCircleStatus.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyDataGridView.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyLabe.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyMessageBox.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Properties.Resources.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201015\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.GenerateResource.Cache
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe.config
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\Interop.ClassPriorStep.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.ResolveComReference.cache
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.exe
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.pdb
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\DB\LaserCode.db
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\HPSocket4C_U.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\SQLite.Interop.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\OP970LaserEtch.exe
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\OP970LaserEtch.pdb
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\HPSocketCS.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\HslCommunication.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\Newtonsoft.Json.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\bin\Debug\System.Data.SQLite.dll
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\LaserCode.csprojResolveAssemblyReference.cache
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Form1.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Login.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyCircleStatus.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyDataGridView.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyLabe.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.MyMessageBox.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\OP970LaserEtch.Properties.Resources.resources
+F:\Soft\Kstopa\Winfrom\2020\天合\op970A\OP970LaserEtch-20201016\OP970LaserEtch\obj\x86\Debug\LaserCode.csproj.GenerateResource.Cache

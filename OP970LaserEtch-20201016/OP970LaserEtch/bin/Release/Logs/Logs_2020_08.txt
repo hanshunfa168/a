@@ -1,0 +1,506 @@
+﻿[致命] 2020-08-14 14:58:34.202 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 14:58:34.286 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 14:58:34.364 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 14:59:37.252 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 14:59:37.342 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 14:59:37.433 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:00:11.646 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:00:11.730 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:00:11.812 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:07:25.911 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:07:25.991 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:07:26.079 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:14:19.357 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:14:19.440 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:14:19.520 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:14:44.262 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:14:44.344 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:14:44.423 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:25:46.534 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:25:46.613 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:25:46.693 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:26:02.654 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:26:02.736 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:26:02.817 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:26:47.481 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:26:50.236 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:28:50.954 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:28:51.038 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:28:51.121 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:29:07.919 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:29:13.224 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:29:15.722 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:29:17.607 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:29:23.514 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:29.359 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:29.451 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:29.530 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:29.608 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:40.345 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:40.960 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:42.130 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:42.609 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:46.223 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 15:45:47.629 thread:[09] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 16:03:57.757 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/
+[致命] 2020-08-14 16:03:57.863 thread:[10] System.String : 错误消息：English Message : Connection open error . unable to open database file
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：unable to open database file.
+源：SqlSugar
+堆栈：   在 SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   在 SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   在 SqlSugar.QueryableProvider`1._ToList[TResult]()
+   在 SqlSugar.QueryableProvider`1.ToList()
+   在 LaserCode.BLL.BLLBase`1.SelectData() 位置 d:\我的文档\visual studio 2010\Projects\OP970LaserEtch\OP970LaserEtch\BLL\BLLBase.cs:行号 116
+错误类型：SqlSugar.UtilExceptions
+调用方法：System.Data.IDataReader GetDataReader(System.String, SqlSugar.SugarParameter[])
+/=================================================[    Exception    ]================================================/

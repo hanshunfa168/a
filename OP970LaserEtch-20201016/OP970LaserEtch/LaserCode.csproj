@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C09681A1-AA30-437A-87D2-BFB69C065DEA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OP970LaserEtch</RootNamespace>
+    <AssemblyName>OP970LaserEtch</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>download.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HPSocketCS, Version=4.1.3.19493, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\上位机项目资料\上海天合\TF1806007\LaserCode\bin\Release\HPSocketCS.dll</HintPath>
+    </Reference>
+    <Reference Include="HslCommunication">
+      <HintPath>..\..\..\..\..\上位机项目资料\通讯\PLC通讯\HslCommunication-master\HslCommunication_Net35\bin\Debug\HslCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\..\上位机项目资料\上海天合\TF1806007\LaserCode\bin\Release\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\..\上位机项目资料\上海天合\TF1806007\LaserCode\bin\Release\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\..\上位机项目资料\上海天合\TF1806007\LaserCode\bin\Release\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\上位机项目资料\西安庆华民爆\F1810001-电子雷管生产线\05 程序代码\蘸药设备20200426\RD1903001\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SqlSugar">
+      <HintPath>..\..\..\..\..\上位机项目资料\西安庆华民爆\F1810001-电子雷管生产线\05 程序代码\蘸药设备20200426\RD1903001\bin\Debug\SqlSugar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.102.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\上位机项目资料\西安庆华民爆\F1810001-电子雷管生产线\05 程序代码\蘸药设备20200426\RD1903001\bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZFforVWalias">
+      <HintPath>..\..\..\..\..\上位机项目资料\上海天合\TF1806007\LaserCode\bin\Release\ZFforVWalias.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABKit\ABKit.cs" />
+    <Compile Include="ABKit\TCPKit.cs" />
+    <Compile Include="BLL\BLLBase.cs" />
+    <Compile Include="BLL\BllKeys.cs" />
+    <Compile Include="BLL\BllRecipe.cs" />
+    <Compile Include="BLL\BllUser.cs" />
+    <Compile Include="BLL\SugarBase.cs" />
+    <Compile Include="CIM\Cim.cs" />
+    <Compile Include="CIM\TeCimKit.cs" />
+    <Compile Include="DgvDetail.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDX1000.cs" />
+    <Compile Include="MDX1000COM.cs" />
+    <Compile Include="Models\tb_key.cs" />
+    <Compile Include="Models\tb_recipe.cs" />
+    <Compile Include="Models\tb_user.cs" />
+    <Compile Include="MyCircleStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyCircleStatus.Designer.cs">
+      <DependentUpon>MyCircleStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyDataGridView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyDataGridView.Designer.cs">
+      <DependentUpon>MyDataGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyLabe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyLabe.Designer.cs">
+      <DependentUpon>MyLabe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyMessageBox.Designer.cs">
+      <DependentUpon>MyMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recipeinfo.cs" />
+    <Compile Include="Service References\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\ConfigHelper.cs" />
+    <Compile Include="Utility\MyLog.cs" />
+    <Compile Include="Utility\MyMsgBox.cs" />
+    <Compile Include="Utility\ProductInfoLog.cs" />
+    <Compile Include="Utility\RenderHelper.cs" />
+    <Compile Include="Utility\Win32.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyCircleStatus.resx">
+      <DependentUpon>MyCircleStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyDataGridView.resx">
+      <DependentUpon>MyDataGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyLabe.resx">
+      <DependentUpon>MyLabe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyMessageBox.resx">
+      <DependentUpon>MyMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="DB\LaserCode.db">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\ServiceReference1\item.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceReference1\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceReference1\WcfService.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ClassPriorStep">
+      <Guid>{FB1B479F-84AA-4DD5-A3BE-632D2F4A0CC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="download.ico" />
+    <Content Include="HPSocket4C_U.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HPSocketCS.dll" />
+    <Content Include="hsl\HslCommunication.dll" />
+    <Content Include="hsl\Newtonsoft.Json.dll" />
+    <Content Include="Material\add.ico" />
+    <Content Include="Material\apply.ico" />
+    <Content Include="Material\delete.ico" />
+    <Content Include="Material\download.ico" />
+    <Content Include="Material\info.ico" />
+    <Content Include="Material\logo.png" />
+    <Content Include="Material\refresh.ico" />
+    <Content Include="Material\search.ico" />
+    <Content Include="Material\Start.ico" />
+    <None Include="Service References\ServiceReference1\item.disco" />
+    <None Include="Service References\ServiceReference1\configuration91.svcinfo" />
+    <None Include="Service References\ServiceReference1\configuration.svcinfo" />
+    <None Include="Service References\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="SQLite.Interop.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Start.ico" />
+    <None Include="Resources\search.ico" />
+    <None Include="Resources\refresh.ico" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\info.ico" />
+    <None Include="Resources\download.ico" />
+    <None Include="Resources\delete.ico" />
+    <None Include="Resources\apply.ico" />
+    <None Include="Resources\add.ico" />
+    <Content Include="Resources\Image1.bmp" />
+    <Content Include="Resources\Login_BK.ico" />
+    <None Include="Resources\Login_BK.png" />
+    <Content Include="Res\Login_BK.png" />
+    <Content Include="Sqlite\System.Data.SQLite.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ServiceReference1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
